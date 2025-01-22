@@ -1,8 +1,7 @@
 # 👋 Hi, I’m Thisal Kenula
 - **👀 I’m interested in:** programming, math, problem-solving and computer science topics
 - **🎓 I’m currently studying at:** Faculty of Engineering (1st year), University of Ruhuna, Sri Lanka.
-- **🌱 I’m currently learning:** Python, C++ and Discrete Mathematics
-- **💞️ I’m looking to collaborate on:** beginner-friendly open-source projects related to Python or algorithms.
+- **🌱 I’m currently learning:** Python, Discrete Mathematics
 - **📫 How to reach me:** [thisalkenula@outlook.com](thisalkenula@outlook.com)
 - 😄 **Pronouns:** he/him
 
