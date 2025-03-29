@@ -1,9 +1,9 @@
 # 👋 Hi, I’m Thisal Kenula
-- **👀 I’m interested in:** programming, math, problem-solving and computer science topics
-- **🎓 I’m currently studying at:** Faculty of Engineering (1st year), University of Ruhuna, Sri Lanka.
-- **🌱 I’m currently learning:** Python, Discrete Mathematics
-- **📫 How to reach me:** [thisalkenula@outlook.com](thisalkenula@outlook.com)
-- 😄 **Pronouns:** he/him
+
+- **🎓 I’m currently studying at:** Faculty of Engineering (26th batch), University of Ruhuna, Sri Lanka.
+- **📫 How to reach me:**
+  - Email: [thisalkenula@outlook.com](thisalkenula@outlook.com)
+  - Telegram: [thisalkenula](https://t.me/thisalkenula)
 
 <!---
 thisal-kenula/thisal-kenula is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
