@@ -2,7 +2,7 @@
 
 - **🎓 I’m currently studying at:** Faculty of Engineering (26th batch), University of Ruhuna, Sri Lanka.
 - **📫 How to reach me:**
-  - Email: [thisalkenula@outlook.com](thisalkenula@outlook.com)
+  - Email: [thisalkenula23@gmail.com](thisalkenula23@gmail.com)
   - Telegram: [thisalkenula](https://t.me/thisalkenula)
 
 <!---
